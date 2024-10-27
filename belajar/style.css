@@ -1,0 +1,31 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:white;
+}
+
+div {
+    background-color: white;
+}
+
+.container-navbar {
+    background-color:white;
+}
+
+.ul-navbar {
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.ul-navbar {
+    border: 1px solid white;
+    background-color:black
+    list-style-type: none;
+}
+
